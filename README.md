@@ -15,7 +15,13 @@ A financial analyst evaluates current and historical economic and business data 
 
 
 
-## [Strategic Planning Foundations](https://www.linkedin.com/learning/strategic-planning-foundations/strategic-planning?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5eb2dee2498e375f58a31ae4)
+
+
+.
+
+
+
+## First Course : [Strategic Planning Foundations](https://www.linkedin.com/learning/strategic-planning-foundations/strategic-planning?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5eb2dee2498e375f58a31ae4)
 
 
 
@@ -66,7 +72,8 @@ Join executive leadership consultant and coach Mike Figliuolo as he reveals how 
 
 
 
-[Financial Accounting Foundations](https://www.linkedin.com/learning/financial-accounting-foundations/why-financial-accounting?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5eb2dee2498e375f58a31ae4)
+
+## Second Course : [Financial Accounting Foundations](https://www.linkedin.com/learning/financial-accounting-foundations/why-financial-accounting?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5eb2dee2498e375f58a31ae4)
 
 
 
