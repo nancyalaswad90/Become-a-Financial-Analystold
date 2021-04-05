@@ -64,3 +64,32 @@ Join executive leadership consultant and coach Mike Figliuolo as he reveals how 
 
 ----------------------------------
 
+
+
+[Financial Accounting Foundations](https://www.linkedin.com/learning/financial-accounting-foundations/why-financial-accounting?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5eb2dee2498e375f58a31ae4)
+
+
+
+
+### Course details
+
+
+
+###  Learning objectives
+
+###  Skills covered
+
+
+
+
+----------------------------------
+
+
+
+### Course details
+
+
+
+###  Learning objectives
+
+###  Skills covered
