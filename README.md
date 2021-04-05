@@ -18,4 +18,17 @@ A financial analyst evaluates current and historical economic and business data 
 ## [Strategic Planning Foundations](https://www.linkedin.com/learning/strategic-planning-foundations/strategic-planning?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5eb2dee2498e375f58a31ae4)
 
 
-> ![cer 1.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1613157074/cer_1.png)
+
+### Course details
+
+
+Join executive leadership consultant and coach Mike Figliuolo as he reveals how to implement a strategic planning process in your organization—a process that can be repeated yearly and ensures you get input from all relevant stakeholders. In this course, Mike shows you how to establish and articulate your organization's core competencies, vision, mission, and strategic filters. Using these criteria, he shows how to prioritize competing initiatives, how to allocate resources to best support those initiatives, and how all of these factors combine to create a compelling strategic plan.
+
+
+
+###  Skills covered
+
+
+- Strategic Planning
+
+- Business Strategy
