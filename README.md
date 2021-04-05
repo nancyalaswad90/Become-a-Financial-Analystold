@@ -81,6 +81,13 @@ Join executive leadership consultant and coach Mike Figliuolo as he reveals how 
 
 
 
+.
+
+
+> ![cer Financial Accounting Foundations](https://user-images.githubusercontent.com/36210723/113526367-77246500-95c2-11eb-96d2-a3113dfe5a56.png)
+>
+
+
 
 ----------------------------------
 
