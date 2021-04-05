@@ -50,3 +50,17 @@ Join executive leadership consultant and coach Mike Figliuolo as he reveals how 
 - Strategic Planning
 
 - Business Strategy
+
+
+
+
+.
+
+
+> ![cer Strategic Planning Foundations](https://user-images.githubusercontent.com/36210723/113526261-12690a80-95c2-11eb-817c-56f4e569d2e4.png)
+
+
+
+
+----------------------------------
+
