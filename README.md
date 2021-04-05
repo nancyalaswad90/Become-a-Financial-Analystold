@@ -26,6 +26,24 @@ Join executive leadership consultant and coach Mike Figliuolo as he reveals how 
 
 
 
+
+
+###  Learning objectives
+
+- Define the principles of strategic planning.
+
+- Identify forces used to assess the market.
+
+- Explain how to conduct a SWOT analysis.
+
+- Articulate how to establish guiding principles and set goals.
+
+- Explain what strategic filters are used for.
+
+- Describe the steps of a strategic planning process.
+
+
+
 ###  Skills covered
 
 
