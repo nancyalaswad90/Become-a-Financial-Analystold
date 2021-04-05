@@ -81,12 +81,37 @@ Join executive leadership consultant and coach Mike Figliuolo as he reveals how 
 ### Course details
 
 
+Businesses can’t operate unless they know if they’re in the red or black. Without an accurate financial picture, you can’t make purchasing, hiring, or any other important decisions. Financial accounting is the set of tools and techniques used to accurately gauge and report on the financial health of a company. In this course, finance professors Jim Stice and Earl Kay Stice teach you the basics. Get an overview of key financial statements, including the balance sheet and income statement, and the mechanics of accounting. Review some the current issues and emerging trends facing financial accountants, such as revenue recognition and tax deferral. Plus, learn how to read and analyze financial statements from publicly traded companies in order to ascertain company performance and value.
+
+
+
+
+
 
 ###  Learning objectives
 
+
+
+- Describe line items that appear on financial statements.
+
+- Differentiate between the three types of financial statements.
+
+- Interpret current accounting issues and trends.
+
+- Calculate the market capitalization of a company.
+
+- Identify the most important expense for a retail company.
+
+- Explain the use of common size financial statements.
+
+
+
+
 ###  Skills covered
 
+- Financial Statements
 
+- Financial Accounting
 
 .
 
