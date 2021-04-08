@@ -182,12 +182,50 @@ By distilling key information regarding cash flow levels and risks, financial mo
 
 ### Course details
 
+By learning how to evaluate and visualize cash flows for your business, you can make more informed decisions about prospects and projects. In this course, Curt Frye demonstrates effective ways of evaluating and visualizing cash flows using Microsoft Excel. He demonstrates how to calculate the effect of interest rates and inflation, calculate the present value of an investment, and determine how much interest you can save by paying extra principal each month. Plus, he explains how to calculate net present value and internal rate of return, and shows how to create a cash tracking worksheet, where you can keep a record of income, expenses, and your current cash balance.
+
+
 
 
 ###  Learning objectives
 
+
+- Calculating the effect of interest rates and inflation
+
+- Finding the arithmetic and geometric means of growth rates
+
+- Calculating the future and present value of an investment
+
+- Calculating loan payments for a fully amortized loan
+
+- Calculating the effect of paying extra principal with each payment
+
+- Finding the number of periods required to meet an investment goal
+
+- Calculating net present value and internal rate of return
+
+- Building a cash tracking worksheet
+
+- Visualizing cash flows using a waterfall chart
+
+
+
+
+
+.
+
+
 ###  Skills covered
 
+- Business Intelligence (BI)
+
+- Corporate Finance
+
+- Cash Flow Analysis
+
+- Business Analytics
+
+- Microsoft Excel
 
 
 .
