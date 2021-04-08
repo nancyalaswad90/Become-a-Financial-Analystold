@@ -123,17 +123,45 @@ Businesses can’t operate unless they know if they’re in the red or black. Wi
 
 ----------------------------------
 
-## Third Course : [
+## Third Course : [Financial Modeling Foundations](https://www.linkedin.com/learning/financial-modeling-foundations/using-excel-for-financial-modeling?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5eb2dee2498e375f58a31ae4)
 
 
 
 ### Course details
 
 
+By distilling key information regarding cash flow levels and risks, financial modeling helps decision-makers make informed choices based on data analytics that move their firms forward. In this course, learn how to build financial models that can be used in corporate finance, investment banking, commercial banking, and portfolio management. Professor Michael McDonald covers financial statement models, investment banking models, M&A models, buyout models, and DCF models—all using Microsoft Excel. Throughout the course, Michael includes exercises—together with downloadable exercise files—that can provide you with a practical understanding of these key topics.
+
+
+
 
 ###  Learning objectives
 
+
+- Describe financial modeling basics.
+
+- Review the three financial statements used in financial modeling.
+
+- Explain how to create corporate financing models.
+
+- Explore the valuation process in financial models.
+
+- Apply complex modeling features in Excel to a scenario.
+
+- Identify the key components in a buyout model.
+
+
 ###  Skills covered
+
+
+
+- Corporate Finance 
+
+
+- Microsoft Excel
+
+
+- Financial Modeling
 
 
 
