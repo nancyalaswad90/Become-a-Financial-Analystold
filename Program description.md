@@ -207,7 +207,3 @@
 
 
 
-
-
-
-![ExcelAnalyzing and Visualizing Cash Flows.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1617824507/ExcelAnalyzing_and_Visualizing_Cash_Flows.png)
