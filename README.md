@@ -177,7 +177,7 @@ By distilling key information regarding cash flow levels and risks, financial mo
 
 
 
-## Fourth Course : [
+## Fourth Course : [Excel: Analyzing and Visualizing Cash Flows](https://www.linkedin.com/learning/excel-analyzing-and-visualizing-cash-flows/welcome?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5eb2dee2498e375f58a31ae4)
 
 
 ### Course details
@@ -190,7 +190,10 @@ By distilling key information regarding cash flow levels and risks, financial mo
 
 
 
+.
 
+
+> ![ExcelAnalyzing and Visualizing Cash Flows.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1617824507/ExcelAnalyzing_and_Visualizing_Cash_Flows.png)
 
 
 
@@ -300,4 +303,3 @@ By distilling key information regarding cash flow levels and risks, financial mo
 
 
 
-![ExcelAnalyzing and Visualizing Cash Flows.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1617824507/ExcelAnalyzing_and_Visualizing_Cash_Flows.png)
