@@ -164,6 +164,13 @@ By distilling key information regarding cash flow levels and risks, financial mo
 - Financial Modeling
 
 
+.
+
+> ![Financial Modeling Foundations](https://user-images.githubusercontent.com/36210723/114042509-2c3e7200-988e-11eb-9e15-a7652b90589a.png)
+
+
+
+.
 
 
 ----------------------------------
