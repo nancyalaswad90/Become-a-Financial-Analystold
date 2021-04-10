@@ -355,7 +355,15 @@ To understand what managerial economics looks like in practice, Stefan explains 
 ###  Skills covered
 
 
-- AccountingManagerial EconomicsEntrepreneurshipEnterprise MarketingBusiness Strategy
+- Accounting 
+
+- Managerial Economics 
+
+- Entrepreneurship
+
+- Enterprise Marketing
+
+- Business Strategy
 
 
 .
