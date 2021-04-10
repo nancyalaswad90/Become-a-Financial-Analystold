@@ -1,7 +1,7 @@
 .
 
 
-# Become a Financial Analyst
+# [Become a Financial Analyst](https://www.linkedin.com/learning/paths/become-a-financial-analyst)
 
 
 A financial analyst evaluates current and historical economic and business data to identify trends that influence business decisions. Gain the skills that make a successful financial analyst, including understanding financial statements, working with economic data, and analytical analysis skills.
