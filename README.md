@@ -321,7 +321,9 @@ By learning how to evaluate and visualize cash flows for your business, you can 
 
 
 
-## Tenth Course : [
+## Tenth Course : [Excel: Economic Analysis and Data Analytics](https://www.linkedin.com/learning/excel-economic-analysis-and-data-analytics/next-steps?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5eb2dee2498e375f58a31ae4&resume=false)
+
+
 
 ### Course details
 
