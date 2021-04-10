@@ -337,17 +337,25 @@ To understand what managerial economics looks like in practice, Stefan explains 
 
 
 
-Using economics to solve business problems
-Understanding price elasticity
-Demand curve shifts
-Economics of scale vs. scope
-Break-even and what-if analysis
-Profit maximization
-Economics in action
+- Using economics to solve business problems
+
+- Understanding price elasticity
+
+- Demand curve shifts
+
+- Economics of scale vs. scope
+
+- Break-even and what-if analysis
+
+- Profit maximization
+
+- Economics in action
 
 
 ###  Skills covered
-AccountingManagerial EconomicsEntrepreneurshipEnterprise MarketingBusiness Strategy
+
+
+- AccountingManagerial EconomicsEntrepreneurshipEnterprise MarketingBusiness Strategy
 
 
 .
