@@ -308,7 +308,7 @@ By learning how to evaluate and visualize cash flows for your business, you can 
 
 
 
-## Ninth Course : [
+## Ninth Course : [Managerial Economics](https://www.linkedin.com/learning/managerial-economics/welcome?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5eb2dee2498e375f58a31ae4)
 
 ### Course details
 
