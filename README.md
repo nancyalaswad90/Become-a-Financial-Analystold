@@ -327,12 +327,39 @@ By learning how to evaluate and visualize cash flows for your business, you can 
 
 ### Course details
 
+Big data is transforming the world of business. Yet many people don't understand what big data and business intelligence are, or how to apply the techniques to their day-to-day jobs. This course addresses that knowledge gap by showing how to use large volumes of economic data to gain key business insights and analyze market conditions.
+
+Professor Michael McDonald demonstrates how to harness the wealth of information available on the Internet to forecast statistics such as industry growth, GDP, and unemployment rates, as well as factors that directly affect your business, like property prices and future interest rate hikes. All you need is Microsoft Excel. Michael uses the built-in formulas, functions, and calculations to perform regression analysis, calculate confidence intervals, and stress test your results. He also covers time series exponential smoothing, fixed effects regression, and difference estimators. You'll walk away from the course able to immediately begin creating forecasts for your own business needs.
+
+
+
 
 
 ###  Learning objectives
 
+Identify a good source of free data.
+Name the term for the estimate of the impact of an X variable on a Y variable.
+Tell which statistic offers a bounds on the estimate of the impact of an X variable on a Y variable.
+Assess the type of variable that can be used to capture fixed effects.
+Cite the method by which a forecast can be done with a regression.
+
+
 ###  Skills covered
 
+
+
+
+- Business Intelligence (BI)
+
+- Corporate Finance
+
+- Big Data 
+
+- Data Analysis
+
+- Economic Analysis
+
+- Microsoft Excel
 
 
 
