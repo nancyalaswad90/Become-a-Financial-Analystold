@@ -338,9 +338,13 @@ Professor Michael McDonald demonstrates how to harness the wealth of information
 ###  Learning objectives
 
 - Identify a good source of free data.
+
 - Name the term for the estimate of the impact of an X variable on a Y variable.
+
 - Tell which statistic offers a bounds on the estimate of the impact of an X variable on a Y variable.
+
 - Assess the type of variable that can be used to capture fixed effects.
+
 - Cite the method by which a forecast can be done with a regression.
 
 
@@ -366,7 +370,7 @@ Professor Michael McDonald demonstrates how to harness the wealth of information
 -
 
 
+> ![10-04Economic Analysis and Data Analytics.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1618076731/10-04Economic_Analysis_and_Data_Analytics.png)
 
 
-
-
+.
