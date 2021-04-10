@@ -15,6 +15,9 @@ A financial analyst evaluates current and historical economic and business data 
 
 
 
+.
+
+> ![Become a Financial Analyst.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1618097167/Become_a_Financial_Analyst.png)
 
 
 .
