@@ -310,15 +310,44 @@ By learning how to evaluate and visualize cash flows for your business, you can 
 
 ## Ninth Course : [Managerial Economics](https://www.linkedin.com/learning/managerial-economics/welcome?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5eb2dee2498e375f58a31ae4)
 
+
+
+
 ### Course details
+
+
+
+
+
+Managers can use economics to strategize and solve a variety of business problems, from the mundane to the mission critical. In this course, IMD Professor of Strategic Marketing Stefan Michel explains how to use economic theory to answer strategic questions such as…
+
+- What are customers buying? (demand theory)
+- What should we produce? (production theory)
+- Which costs do I need to worry about now? (cost theory)
+- What market am I in? (competition theory)
+- What should we charge for it? (pricing theory)
+
+
+To understand what managerial economics looks like in practice, Stefan explains how Google's auction-based advertising system employs the principles of game theory and how understanding this can help decision makers to outmaneuver their competitors.
 
 
 
 ###  Learning objectives
 
+
+
+
+Using economics to solve business problems
+Understanding price elasticity
+Demand curve shifts
+Economics of scale vs. scope
+Break-even and what-if analysis
+Profit maximization
+Economics in action
+
+
 ###  Skills covered
-
-
+AccountingManagerial EconomicsEntrepreneurshipEnterprise MarketingBusiness Strategy
 
 
 .
