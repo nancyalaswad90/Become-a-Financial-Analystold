@@ -320,6 +320,18 @@ By learning how to evaluate and visualize cash flows for your business, you can 
 
 
 
+
+.
+
+
+> ![Managerial Economics.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1618097497/Managerial_Economics.png)
+> 
+
+.
+
+
+
+
 ----------------------------------
 
 
