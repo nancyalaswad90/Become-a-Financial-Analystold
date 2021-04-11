@@ -338,7 +338,7 @@ Explain what is needed to deduce cash flow
 
 .
 
-> 
+> ![666-Financial Modeling and Forecasting Financial Statements](https://user-images.githubusercontent.com/36210723/114324341-25d02480-9b32-11eb-9f43-c9d47957dd14.png)
 
 .
 
