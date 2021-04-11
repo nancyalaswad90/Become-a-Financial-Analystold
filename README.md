@@ -394,7 +394,7 @@ Financial ratiosâ€”such as ROI (return on investment) or ROA (return on assets)â
 
 
 
->
+> ![7- Running a Profitable BusinessUnderstanding Financial Ratios](https://user-images.githubusercontent.com/36210723/114324343-2668bb00-9b32-11eb-9fdd-c02105b4b190.png)
 
 
 
