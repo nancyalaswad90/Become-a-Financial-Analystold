@@ -349,6 +349,9 @@ Explain what is needed to deduce cash flow
 
 ### Course details
 
+Financial ratios—such as ROI (return on investment) or ROA (return on assets)— are a valuable tool for measuring a company's progress against a financial goal, a certain competitor, or the overall industry. In this course, professors Jim and Kay Stice explain the financial ratios found on balance sheets, income statements, and cash-flow statements and provide examples from real-world companies such as Walmart, Nordstrom, and McDonald's. They help you understand how to use financial ratios to analyze or benchmark your company against other companies.
+
+
 
 
 ###  Learning objectives
