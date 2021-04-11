@@ -342,7 +342,9 @@ Explain what is needed to deduce cash flow
 ----------------------------------
 
 
- ## Seventh Course : [
+ ## Seventh Course : [Running a Profitable Business: Understanding Financial Ratios](https://www.linkedin.com/learning/running-a-profitable-business-understanding-financial-ratios/gain-financial-insights?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5eb2dee2498e375f58a31ae4)
+
+
 
 
 ### Course details
