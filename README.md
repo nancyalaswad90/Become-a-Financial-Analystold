@@ -356,10 +356,45 @@ Financial ratios—such as ROI (return on investment) or ROA (return on assets)�
 
 ###  Learning objectives
 
+
+- Identify the financial statement where you can find the source of financing for a company to buy assets.
+
+- Name the category that liabilities must be paid from.
+
+- Explain what you want to see when you look at a company’s operating income percentage.
+
+- List the steps to calculate accounts receivable turnover.
+
+- Identify the two components to use when calculating current ratio.
+
+- Recall the pitfall you need to avoid when performing financial ratio analysis.
+
+
+
+
 ###  Skills covered
 
 
+- Financial Statement Analysis
 
+- Financial Reporting
+
+- Ratio Analysis
+
+- Profitability Analysis
+
+
+
+
+.
+
+
+
+>
+
+
+
+.
 ----------------------------------
 
  ## Eighth Course : [
