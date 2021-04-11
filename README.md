@@ -244,14 +244,55 @@ By learning how to evaluate and visualize cash flows for your business, you can 
 ## Fifth Course : [Excel: Tracking Data Easily and Efficientl](https://www.linkedin.com/learning/excel-tracking-data-easily-and-efficiently/welcome?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5eb2dee2498e375f58a31ae4)
 
 
+
+
 ### Course details
+
+Learn how to build a super-charged Excel spreadsheet to help you and your team easily track any kind of data-sales transactions, inventory levels, project statuses, employee paid time off, student progress, household spending, and more. Follow along with Excel MVP Oz du Soleil as he shows how to create a basic spreadsheet and transform it into an effective tracking system for any kind of data that is regularly updated. Learn spreadsheet basics, as well as more advanced techniques such as writing formulas that check that information is complete, protecting and hiding sheets, and creating alerts for deadlines and bad data. Oz wraps up with a challenge that pulls together everything you've learned into a polished final project.
+
+
 
 
 
 ###  Learning objectives
 
+- Planning your data tracker
+
+- Adding calculations and graphics
+
+- Protecting cells and sheets
+
+- Hiding sheets
+
+- Setting up alerts with conditional formatting
+
+- Merging data
+
+- Categorizing data
+
+- Formatting your tracker
+
+- Putting it all together
+
+
+
+
+
 ###  Skills covered
 
+
+- Data Analysis
+
+- Business Analytics
+
+- Microsoft Excel
+
+
+
+.
+
+
+> 
 
 
 
