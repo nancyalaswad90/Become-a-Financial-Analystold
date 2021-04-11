@@ -300,17 +300,43 @@ Learn how to build a super-charged Excel spreadsheet to help you and your team e
 
 
 
- ## Sixth Course : [
+ ## Sixth Course : [Financial Modeling and Forecasting Financial Statements](https://www.linkedin.com/learning/financial-modeling-and-forecasting-financial-statements/projecting-the-financial-future?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5eb2dee2498e375f58a31ae4)
+
+
 
 
 ### Course details
+
+Financial reports are not just summaries of the past—they also include predictions for the future. In fact, most financial institutions are more interested in future performance than historical trends. Banks want to know your future cash flow; investors want to know future profits. In this course, Jim and Kay Stice explains how to create forecasted financial statements for your company. Learn how to use past data such as cost of goods sold, depreciation expenses, and levels of inventory, and understand what caused those numbers to fluctuate over time. Then you can learn how to use the information as the basis for forecasting, applying a simple but powerful equation: assets = liability + equity. You get hands-on practice building three different documents: a forecasted income statement, a forecasted balance sheet, and a forecasted statement of cash flow. Throughout the course, Jim and Kay use famous business cases—like Home Depot’s 1985 cash-flow crisis—to illustrate the importance of accurate financial forecasts and their impact on business decisions.
+
 
 
 
 ###  Learning objectives
 
+Explain the importance of financial statements
+Interpret the factors of a sales forecast
+Determine the types of impacts that cause financial statement numbers to change
+Differentiate the elements of a forecasted income statement
+Apply the accounting equation to reconciling a balance sheet
+Explain what is needed to deduce cash flow
+
+
+
+
 ###  Skills covered
 
+- Financial Statement Analysis
+
+- Financial Modeling
+
+
+
+.
+
+> 
+
+.
 
 
 ----------------------------------
