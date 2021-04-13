@@ -431,7 +431,7 @@ Identify appropriate factors when performing corporate financial statement analy
 
 .
 
-> 
+>  ![Corporate Financial Statement Analysis.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1618356672/Corporate_Financial_Statement_Analysis.png)
 
 .
 
