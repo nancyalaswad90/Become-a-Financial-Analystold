@@ -401,7 +401,7 @@ Financial ratiosâ€”such as ROI (return on investment) or ROA (return on assets)â
 .
 ----------------------------------
 
- ## Eighth Course : [
+ ## Eighth Course : [Corporate Financial Statement Analysis](https://www.linkedin.com/learning/corporate-financial-statement-analysis/what-is-financial-statement-analysis?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5eb2dee2498e375f58a31ae4)
 
 
 
