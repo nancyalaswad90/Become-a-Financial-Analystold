@@ -413,12 +413,17 @@ Financial reports contain a trove of information about your company's past, pres
 
 ###  Learning objectives
 
-Describe the processes by which business activities become entries on an income statement.
-Differentiate the components of the DuPont framework.
-Explain how common size financial statements are used in corporate financial statement analysis.
-Recall the method for calculating accounts receivable turnover.
-Explore the use of ratios in corporate financial statement analysis.
-Identify appropriate factors when performing corporate financial statement analysis.
+- Describe the processes by which business activities become entries on an income statement.
+
+- Differentiate the components of the DuPont framework.
+
+- Explain how common size financial statements are used in corporate financial statement analysis.
+
+- Recall the method for calculating accounts receivable turnover.
+
+- Explore the use of ratios in corporate financial statement analysis.
+
+- Identify appropriate factors when performing corporate financial statement analysis.
 
 
 
