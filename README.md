@@ -408,6 +408,8 @@ Financial ratiosâ€”such as ROI (return on investment) or ROA (return on assets)â
 ### Course details
 
 
+Financial reports contain a trove of information about your company's past, present, and future. With the basic tenants of financial analysis in your tool kit, you can use these reports to gain valuable insights into your organization's strengths and shortcomings. In this course, Jim and Kay Stice dive into the subject of financial statements, explaining how to work with and analyze them. They start off with some general knowledge about the structure and layout of a financial statement, and then go deeper by looking at the various ratios most commonly found in these statements. Plus, they detail the various limitations of financial statement analysis. By the end of this course, you'll be able to analyze financial statements to spot concerning trends and make smarter calls going forward.
+
 
 ###  Learning objectives
 
