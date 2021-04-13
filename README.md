@@ -424,6 +424,16 @@ Identify appropriate factors when performing corporate financial statement analy
 
 ###  Skills covered
 
+- Financial Statement Analysis
+
+
+
+
+.
+
+> 
+
+.
 
 
 ----------------------------------
